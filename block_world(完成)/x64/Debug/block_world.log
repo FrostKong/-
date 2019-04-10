@@ -1,0 +1,3 @@
+﻿  block_world.cpp
+d:\microsoft visual studio\source\repos\计算机思维训练\block_world\block_world.cpp(45): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  block_world.vcxproj -> D:\Microsoft Visual Studio\source\repos\计算机思维训练\x64\Debug\block_world.exe
